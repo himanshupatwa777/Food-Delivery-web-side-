@@ -1,8 +1,20 @@
-zemoto cloune file locetion- C:\xampp\htdocs
+Step 1 - download XAMPP .
 
-step:-1. open XAMPP and enable Apache and MySQL.
+step 2 - Download MY SQl and create a detabase.
 
-step:-2. open barware and  search.
+step 3 - download my all project file in a new folder .
+
+step 4 - rename of a new folder .
+
+step 3 - go to file locetion- C:\xampp\htdocs and past -->  folder.
+
+step:-5. open XAMPP and enable Apache and MySQL.
+
+step:-6. open barware and  search.
 			     |
 			     v
+
 barware search:- http://localhost:8080/zomato-clone/Front.php
+
+
+//note :- may be your locelhost sever not 8080 may be is 5050 or any find it and work it.
