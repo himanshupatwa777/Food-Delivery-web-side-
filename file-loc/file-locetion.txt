@@ -1,0 +1,8 @@
+zemoto cloune file locetion- C:\xampp\htdocs
+
+step:-1. open XAMPP and enable Apache and MySQL.
+
+step:-2. open barware and  search.
+			     |
+			     v
+barware search:- http://localhost:8080/zomato-clone/Front.php
